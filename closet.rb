@@ -1,4 +1,4 @@
-closet [
+closet = [
   ["blouse", "sweater", "crop"]
   ["jeans", "shorts", "skirt"]
   ["running", "heel", "sandals"]
