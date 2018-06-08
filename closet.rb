@@ -11,4 +11,4 @@ closet2 = {
     :pants =>  ["jeans", "shorts", "skirt"], #pants
     :shoes =>["running", "heel", "sandals"] # shoes
   }
-  puts closet2[:tops]
+  puts closet2[:pants]
