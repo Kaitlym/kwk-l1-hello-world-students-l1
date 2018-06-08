@@ -4,3 +4,7 @@ closet = [
   ["running", "heel", "sandals"] # shoes
   ]
   puts closet[0][0]
+  
+  closet2 = {
+    :tops => ["blouse", "sweater", "crop"] #nested array
+  }
