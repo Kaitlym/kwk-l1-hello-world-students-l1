@@ -1,7 +1,7 @@
 closet [
-  tops = ["blouse", "sweater", "crop"]
-  pants = ["jeans", "shorts", "skirt"]
-  shoes = ["running", "heel", "sandals"]
+  ["blouse", "sweater", "crop"]
+  ["jeans", "shorts", "skirt"]
+  ["running", "heel", "sandals"]
   ]
-  closet = [tops, pants, shoes]
-  puts shoes
+  # closet = [tops, pants, shoes]
+  puts closet[0]
