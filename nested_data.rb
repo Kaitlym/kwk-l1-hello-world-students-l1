@@ -1,4 +1,4 @@
-group_name{
+group_name = {
   :kaitlyn ["ligh em up", "the wolf"],
   :alex ["green light", "location"],
   :baylee ["want you back", "something to tell you"]
