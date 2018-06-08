@@ -3,5 +3,6 @@ closet = [
   ["jeans", "shorts", "skirt"], #pants
   ["running", "heel", "sandals"] # shoes
   ]
+  puts closet[0]
   puts closet[0][0]
   
