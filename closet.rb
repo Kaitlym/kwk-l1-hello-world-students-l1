@@ -3,4 +3,5 @@ closet [
   pants = ["jeans", "shorts", "skirt"]
   shoes = ["running", "heel", "sandals"]
   ]
+  closet = [tops, pants, shoes]
   puts shoes
