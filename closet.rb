@@ -1,7 +1,6 @@
-closet = [
-  ["blouse", "sweater", "crop"]
-  ["jeans", "shorts", "skirt"]
-  ["running", "heel", "sandals"]
+closet = [ 
+  ["blouse", "sweater", "crop"], #tops
+  ["jeans", "shorts", "skirt"], #pants
+  ["running", "heel", "sandals"] # shoes
   ]
-  # closet = [tops, pants, shoes]
   puts closet[0][0]
