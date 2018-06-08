@@ -3,6 +3,6 @@ group_name{
   :alex ["green light", "location"],
   :baylee ["want you back", "something to tell you"]
 }
-puts "kaitlyn's favorite songs are #{group_name [:kaitlyn][0]}
+puts "kaitlyn's favorite songs are #{group_name [:kaitlyn]}
 group_name [:alex][0]
 group_name [:baylee][0]
