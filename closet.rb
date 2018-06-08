@@ -10,3 +10,4 @@ closet = [
     :pants =>  ["jeans", "shorts", "skirt"], #pants
     :shoes =>["running", "heel", "sandals"] # shoes
   }
+  puts closet2
